@@ -1,0 +1,14 @@
+HowTo-Run Pester Tests
+
+Pester Tests are defined to ensure Folders, Files, or scripts meet their necessary requirements.
+
+to run:
+ -  Open Powershell
+ -  Navigate to location of test
+ -  Run Test, for example, PS> .\cse_action.tests.ps1
+
+this will print the outcome of the defined tests,
+
+for cse_action these are currently;
+ - ensure that each subfolder has a README file (as each subfolder should be a script folder)
+ - ensure that each subfolder has its own .tests file. these tests will be specific to the script or contents of the subfolder.
