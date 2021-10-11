@@ -1,0 +1,25 @@
+clouds:
+  frn00006:
+    auth:
+      username: "cse_automation"
+      project_name: "admin"
+      project_id: dbbf94b400ae43d9bf363c24ce3573bf
+      auth_url: https://frn00006.cni.ukcloud.com:13000/v3
+    user_domain_name: "Default"
+    identity_api_version: 3
+  cor00005:
+    auth:
+      username: "cse_automation"
+      project_name: "admin"
+      project_id: 9c86e5594f534bf8a990bcfedea092bf
+      auth_url: https://cor00005.cni.ukcloud.com:13000/v3
+    user_domain_name: "Default"
+    identity_api_version: 3
+  cor000052:
+    auth:
+      username: "cse_automation"
+      project_name: "admin"
+      project_id: 2e5b282fd7aa4fd0a7565ee94f2baebd
+      auth_url: https://cor00005-2.cni.ukcloud.com:13000/v3
+    user_domain_name: "Default"
+    identity_api_version: 3
