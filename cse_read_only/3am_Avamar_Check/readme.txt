@@ -1,0 +1,1 @@
+Instructions/help here --- https://confluence.il2management.local/display/MONITORING/Avamar+Reporting+Tool+%283am+Check+Automation+Script%29+-+WIP+Do+Not+Use
