@@ -7,4 +7,4 @@ The company that I worked for at the time, UKCloud, has long since gone under an
 
 Not all of these scripts are to a high standard - this repo contains almost all of my powershell scripts from my time at UKCloud, and I was learning from scratch, so this contains my first ever script (Balance Datastore Cluster.ps1) and most of the ones after. Unfortunately I neglected to extricate a lot of my SQL code from my time at EasyPark, but that would only be a private repo anyway as that company still exists.
 
-IL2DailyInv and IL3DailyInv were scripts that ran in two different security level environments from windows task scheduler - i.e cron jobs.
+IL2DailyInv and IL3DailyInv were scripts that ran in two different security level environments from windows task scheduler - i.e cron jobs. Assured Desktop and Elevated Desktop are random scripts that either weren't initually finished or were being modified. We did not have source control in those environments.
