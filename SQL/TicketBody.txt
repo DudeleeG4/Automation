@@ -1,0 +1,30 @@
+
+This is an automated email. Please contact supportuk@parkingservicehub.com for any queries.
+
+Account:  RingGo - Royal Borough of Windsor & Maidenhead 
+Date:     Friday 12-May-2023 
+
+Card Type                 Sales               Refunds         Totals 
+
+Visa-Credit             4394.70   890         0.00     0      4394.70   890 
+Visa-Debit              2278.90   470        16.00     2      2262.90   472 
+MasterCard-Credit       4001.30   834        23.80     5      3977.50   839 
+MasterCard-Debit        1054.00   223         0.00     0      1054.00   223 
+Maestro                    0.00     0         0.00     0         0.00     0 
+Solo                       0.00     0         0.00     0         0.00     0 
+Electron                   0.00     0         0.00     0         0.00     0 
+Amex                       0.00     0         0.00     0         0.00     0 
+Diners                     0.00     0         0.00     0         0.00     0 
+Visa-Purchasing            0.00     0         0.00     0         0.00     0 
+
+Totals                 11728.90  2417        39.80     7     11689.10  2424 
+
+
+Free Sessions              0.00    82         0.00     0         0.00    82
+
+Our ATP/WEB/TRM Figures
+Sale        11728.90/2417      Refund         40.00/7          Total       11688.90/2424
+
+RingGo - Royal Borough of Windsor & Maidenhead WEB/PSP Transaction Differences
+
+Different transactions in WEB,  [644a41ca86b3-W8A812ETQ 150 Refund pence] and PSP [644a41ca86b3-W8A812ETQ 130 Refund pence].
